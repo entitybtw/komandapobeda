@@ -1,0 +1,40 @@
+body {
+    background: #FFFFFF;
+    color: #3A3A3A;
+    font-family: monospace, monospace;
+    text-align: center;
+    padding: 40px;
+    user-select: none;
+}
+
+#yearLine {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #FBA282;
+}
+
+#explanation {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    color: #3A3A3A;
+    background: #FFF3EC;
+}
+
+#extraText {
+    font-size: 1em;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    text-align: left;
+    max-width: 600px;
+    line-height: 1.4em;
+    color: #7A7A7A;
+    background: #FFE0CF;
+}
+
+#timerLine {
+    font-size: 2em;
+    font-family: monospace;
+    color: #FBA282;
+}
