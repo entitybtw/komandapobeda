@@ -6,7 +6,7 @@ function updateYearLine() {
     `Почему ${currentYear} это очередной год команда победы?`;
 }
 
-const startDate = new Date('2026-03-01T00:00:00Z').getTime();
+const startDate = new Date('2026-01-06T13:59:00Z').getTime();
 const msInYear = 1000 * 60 * 60 * 24 * 365.25;
 
 function updateTimerLine() {
